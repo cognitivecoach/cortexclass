@@ -35,6 +35,7 @@ https://hub.docker.com/editions/community/docker-ce-desktop-windows
 
 9. Start up Cortex Studio, click on Skill Lab 
 
+_______________________________________________________________________________________________________________
 To check to see if you have everything you need (you should get a version number if it's installed): 
 
 1. Click on the Cortana search box and type cmd. Hit enter to open up a command line and run "cortex --version" 
@@ -43,4 +44,6 @@ To check to see if you have everything you need (you should get a version number
 4. Run "node --version" in the command line
 5. Run "git --version"  in the command line 
 6. Run "docker --version" in the command line
-If you don't receive a version number from any of these commands, try to re-run the step for the missing application. 
+If you don't receive a version number from any of these commands, try a reboot (because, Windows ) or re-run 
+the step for the missing application. 
+----------------------------------------------------------------------------------------------------------------
