@@ -3,11 +3,9 @@ as soon as it shows up in the Search results.
 
 2. Run: 
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" 
-(You should be able to just copy and paste the command--everything after the colon) 
 
 3. Then run: 
 brew cask install miniconda; brew install node; brew install nvm; brew cask install docker; brew install git
-(Again, just copy and paste everything after the colon) 
 
 4. Go to https://console.cortex.insights.ai/ and log in with the credentials you received via email from Cortex
 
