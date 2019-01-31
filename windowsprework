@@ -29,11 +29,13 @@ https://hub.docker.com/editions/community/docker-ce-desktop-windows
 
 6. Click on the Cortana search box and type cmd
 
-7. Type npm --version to make sure that npm is functioning ok
+7. Type node --version to make sure that npm is installed, you should get a version number (ex: 'v10.15.1')
 
-8. Type npm install -g cortex-cli and hit enter to install the Cortex CLI
+8. Type conda --version to make sure that npm is installed, you should get a version number (ex: 'conda 4.5.12')
 
-9. Start up Cortex Studio, click on Skill Lab 
+9. Type npm install -g cortex-cli and hit enter to install the Cortex CLI
+
+10. Start up Cortex Studio, click on Skill Lab 
 
 _______________________________________________________________________________________________________________
 To check to see if you have everything you need (you should get a version number if it's installed): 
