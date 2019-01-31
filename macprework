@@ -22,7 +22,7 @@ Docker. Run Docker.
 9. Sign in to the Docker desktop application using your new account. 
 
 You should have everything you need to run Cortex! 
-
+____________________________________________________________________________________________________
 To check to see if you have everything you need (you should get a version number if it's installed): 
 
 1. Open up a terminal and run "cortex --version" 
@@ -32,7 +32,7 @@ To check to see if you have everything you need (you should get a version number
 5. Run "git --version"  in the terminal 
 6. Run "docker --version" in the terminal
 If you don't receive a version number from any of these commands, try to re-run step number 3
-
+-----------------------------------------------------------------------------------------------------
 
 P.S. Check out https://docs.cortex.insights.ai/docs/getting-started/cli/#configure-the-cli
 for more info for CLI configuration
