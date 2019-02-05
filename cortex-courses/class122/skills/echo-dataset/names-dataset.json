@@ -1,0 +1,10 @@
+{
+    "name": "cortex/names",
+    "title": "Names Dataset",
+    "parameters": {"$ref": "cortex/names"},
+    "connectionName": "cortex/content",
+    "connectionQuery": [
+        {"name": "key", "value": "cortex/names.csv"},
+        {"name": "contentType", "value": "CSV"}
+    ]
+}
