@@ -5,7 +5,12 @@ as soon as it shows up in the Search results.
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" 
 
 3. Then run: 
-brew cask install miniconda; brew install node; brew install nvm; brew cask install docker; brew install git
+brew cask install docker; 
+brew install git
+
+3.1 Download node from this direct link: https://nodejs.org/download/release/v8.12.0/node-v8.12.0.pkg
+
+3.2 Download miniconda from this direct link: https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.pkg
 
 4. Go to https://console.cortex.insights.ai/ and log in with the credentials you received via email from Cortex
 
