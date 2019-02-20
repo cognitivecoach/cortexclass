@@ -5,7 +5,7 @@ pre-requisites as well as Cortex.
 If you do not have installation privileges, your system administrator will need to install the software packages as listed 
 below using whatever method is best practice in your company. 
 
-1. Install Miniconda [Version 4.5.4 or greater]
+1. Install Miniconda 3 with Python 3.7 or above [Version 4.5.4 or greater]
 https://conda.io/miniconda.html 
 --During the installation, make sure to check the "Add to Path" Option in the dialog box. 
 
