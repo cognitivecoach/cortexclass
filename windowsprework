@@ -1,4 +1,5 @@
-NOTE: Docker requires your Windows 10 operating system be Windows 10 Pro or Windows 10 Enterprise. 
+NOTE: Docker requires your Windows 10 operating system be Windows 10 Pro or Windows 10 Enterprise. For more information, go to 
+https://docs.cortex.insights.ai/docs/install-cortex/
 
 * You will need to be a member of the Local Admins group on your Windows 10 machine in order to install both the 
 pre-requisites as well as Cortex.
@@ -48,3 +49,5 @@ To check to see if you have everything you need (you should get a version number
 If you don't receive a version number from any of these commands, try a reboot or re-run 
 the step for the missing application. 
 ----------------------------------------------------------------------------------------------------------------
+
+For more information go to https://docs.cortex.insights.ai/docs/install-cortex/
