@@ -21,7 +21,9 @@ https://git-scm.com/download/win
 4. Install Docker
 https://hub.docker.com/editions/community/docker-ce-desktop-windows
 --You'll need to login to download Docker. If you don't have a login, create one. 
+After Docker is running in your tray, you have to login--it will not log you in automatically
 --Windows 10 Pro or Enterprise is required
+--If it asks you if you want to use Hyper-V, click the check box. 
 --A reboot will be required (because, Windows)
 
 5. Install Cortex Studio
