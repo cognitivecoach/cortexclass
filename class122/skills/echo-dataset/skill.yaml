@@ -1,0 +1,33 @@
+camel: 1.0.0
+name: hd/EchoDataset
+title: Echo Dataset
+description: echo-dataset
+inputs:
+  - name: input1
+    title: Echo in
+    parameters:
+      - name: text
+        type: string
+        description: some random input
+        required: true
+    routing:
+      all:
+        action  : hd/echo-dataset
+        runtime: cortex/functions
+        output: output1
+
+outputs:
+  - name: output1
+    title: Echo out
+    parameters:
+      - name: text
+        type: array
+        format: object
+        description: Output
+        required: true
+
+datasets:
+    -
+        name: names_ref
+        parameters:
+          $ref: cortex/names
