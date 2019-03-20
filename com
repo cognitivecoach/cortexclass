@@ -4,6 +4,6 @@ docker run -it --rm -p 1234:5000 -v /tmp/skill-lab:/root/.skilllab/workspace -v 
 
 http://localhost:1234
 
-
+git clone http://github.com/cognitivecoach/cortexclass
 
 -cc
