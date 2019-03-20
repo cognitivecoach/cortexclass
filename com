@@ -6,4 +6,8 @@ http://localhost:1234
 
 git clone http://github.com/cognitivecoach/cortexclass
 
+Install the cli: 
+npm install -g cortex-cli 
+
+
 -cc
