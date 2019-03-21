@@ -9,5 +9,6 @@ git clone http://github.com/cognitivecoach/cortexclass
 Install the cli: 
 npm install -g cortex-cli 
 
+https://marketplace.cortex.insights.ai/login
 
 -cc
