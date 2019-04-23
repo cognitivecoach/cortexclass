@@ -49,3 +49,11 @@ P.S. Everything should be installed via Homebrew, but just in case you need the 
 https://nodejs.org/download/release/v8.12.0/node-v8.12.0.pkg
 https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.pkg
 You probably won't need them, but I'm providing the links just in case. 
+
+For Synthetic data exercises: 
+pip install discovery-transitioning-utils
+pip install discovery-behavioral-utils
+
+If ds_ is already installed: 
+pip install --upgrade discovery-behavioral-utils
+pip install --upgrade discovery-transitioning-utils
